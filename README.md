@@ -1,1 +1,1 @@
-Describing various ways to make commands
+these processes will be describing how to use commands. 
